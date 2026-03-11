@@ -1,10 +1,10 @@
 #include <ESP8266WiFi.h>
 
-// -------- WIFI DETAILS ----------
+// ---- WIFI DETAILS ----
 const char* ssid = "YOUR_WIFI_NAME";
 const char* password = "YOUR_WIFI_PASSWORD";
 
-// -------- PIN ----------
+// ----- PIN ------
 #define BUZZER D5
 
 void setup() {
