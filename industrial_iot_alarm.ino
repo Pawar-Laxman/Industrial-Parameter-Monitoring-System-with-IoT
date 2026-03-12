@@ -24,7 +24,7 @@ void setup() {
 }
 
 void loop() {
-  // Example alarm condition
+  // Example alarm condition like to get sound
   digitalWrite(BUZZER, HIGH);
   delay(2000);
 
