@@ -24,7 +24,7 @@ void setup() {
 }
 
 void loop() {
-  //It is used for alarm to sound 
+  //It is used for alarm to sound like Buzzer will be sound in high range.
   digitalWrite(BUZZER, HIGH);
   delay(2000);
 
